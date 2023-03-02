@@ -1,5 +1,5 @@
 # NN-model-on-fashion-MNIST
-The purpose behind this pedagogical exercise is to : 
+The purpose behind this pedagogical exercise is to : \\
 • Load a dataset using tf.keras.datasets
 
 • Build a NN with a hidden layer and Softmax activation layer.
